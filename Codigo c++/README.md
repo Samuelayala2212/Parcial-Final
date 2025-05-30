@@ -6,4 +6,4 @@ Durante la batalla de artistas cada uno ataca por decirlo así con canciones que
 
 También decidimos que durante la batalla, se pueda cambiar de artista, asimilándolo aún más con la serie original de pokemon, ya que en esta durante las batallas se puede cambiar de pokemon si tiene poca vida. 
 
-Ahora durante este proyecto se utilizo recursos cómo videos de youtube y herramientas como copilot y chatgpt, estas fueron útiles ya que durante este proyecto multiples veces en el momento de compilar y ejecutar no se podía, por lo cual se usó para corregir errores, entender bibliotecas y estructurar mejor el código. 
+Ahora durante este proyecto se utilizo recursos cómo videos de youtube y herramientas como copilot y chatgpt, estas fueron útiles ya que durante este proyecto multiples veces en el momento de compilar y ejecutar no se podía, por lo cual se usó para corregir errores, entender bibliotecas y estructurar mejor el código, hay una carpeta con sonidos porque una de las ideas era adjuntar partes de las canciones con los artistas, pero no fue posible ya que ni con la ayuda de la IA, ni en internet encontramos una respuesta y una solución. 
