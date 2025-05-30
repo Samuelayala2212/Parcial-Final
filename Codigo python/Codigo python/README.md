@@ -1,9 +1,6 @@
-**PROYECTO C++** 
+**PROYECTO PYTHON** 
 
-Los cambios innovadores del proyecto fueron que en vez de ser pokemones conocidos del anime como pikachu o charmander, lo decidimos hacer sobre artistas del género urbano o más conocidos como reguetoneros, esto con el fin de tener un mayor rango de uso, también con el fin de hacerlo más entretenido con temas que ambos conocemos bien y nos gusta.  
+Este proyecto tuvo varias innovaciones en el código, gracias a la accesibilidad de pyhton se pudo obtener mejoras visuales, cómo también que el programa se ejecutara en un frame aparte y en el momento de presionar cualquiera de los botones se abría o ejecutaba otro frame con la opción, esto hace que sea mucho más accesible y agradable. Gracias a las librerías de python y a su fácil acceso se pudo llegar al punto final. 
 
-Durante la batalla de artistas cada uno ataca por decirlo así con canciones que nosotros escogimos, es decir Maluma ataca con la canción “Corazón” y cada una de estas tiene un daño que escogimos a nuestro gusto, también cada artista tiene una vida diferente. 
+Durante este proyecto se utilizó páginas web cómo geeksforgeeks.org, también videos en youtube y herramientas cómo chatgpt, ya que este ayudaba a encontrar errores y utilizar librerías nuevas para las mejoras. 
 
-También decidimos que durante la batalla, se pueda cambiar de artista, asimilándolo aún más con la serie original de pokemon, ya que en esta durante las batallas se puede cambiar de pokemon si tiene poca vida. 
-
-Ahora durante este proyecto se utilizo recursos cómo videos de youtube y herramientas como copilot y chatgpt, estas fueron útiles ya que durante este proyecto multiples veces en el momento de compilar y ejecutar no se podía, por lo cual se usó para corregir errores, entender bibliotecas y estructurar mejor el código. 
